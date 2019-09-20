@@ -8,5 +8,4 @@ public class Sum {
 	Sum.sum(12,34);
 System.out.println("sosos");
 	}
-
 }
