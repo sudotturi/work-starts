@@ -6,7 +6,7 @@ public class Sum {
  }
 	public static void main(String[] args) {
 	Sum.sum(12,34);
-
+System.out.println("sosos");
 	}
 
 }
